@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Edgar and I'm former IT specialist 💻</h2>
+<h2 align="center">Hi 👋! My name is Edgar and I'm former IT specialist 👨‍💻</h2>
 
 ###
 
