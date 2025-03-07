@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # Change if your branch is 'master'
+      - main  # Change to 'master' if your repo uses it
 
 jobs:
   generate:
